@@ -1,0 +1,9 @@
+.Text {
+    float: left;
+    width: 50%;
+}
+
+.Form {
+    float: right;
+    width: 50%;
+}
