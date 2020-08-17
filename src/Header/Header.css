@@ -1,0 +1,15 @@
+.MainDiv {
+    background-color: bisque;
+}
+
+.Logo {
+    margin-left: 20px;
+}
+
+.Text {
+    float: right;
+    margin-right: 150px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}

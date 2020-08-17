@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-// import styles from './Form.css'
+import styles from './Form.css'
 
 class Form extends Component {
     // state = {
@@ -12,7 +12,7 @@ class Form extends Component {
 
     render() {
         return (
-            <div>
+            <div className={styles.Form}>
                 <form>
                     <label >Name:</label><br />
                     <input type="text" name="name" /><br />

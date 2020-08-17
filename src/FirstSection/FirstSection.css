@@ -1,0 +1,13 @@
+/* .Div {
+    width: 49%;
+} */
+
+.Text {
+    width: 50%;
+    float: left;
+}
+
+.Form {
+    width: 50%;
+    float: right;
+}
